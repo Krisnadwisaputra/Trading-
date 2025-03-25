@@ -5,8 +5,8 @@ import pandas as pd
 from ta.volatility import AverageTrueRange
 
 # Konfigurasi Akun
-IQ_EMAIL = "your_email@example.com"
-IQ_PASSWORD = "your_password"
+IQ_EMAIL = "putrakrisna987@gmail.com"
+IQ_PASSWORD = "Krisna123@"
 iq = IQ_Option(IQ_EMAIL, IQ_PASSWORD)
 iq.connect()
 
